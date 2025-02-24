@@ -1,0 +1,21 @@
+{
+  "name": "come-to-the-army",
+  "version": "1.0.0",
+  "description": "A website project titled 'Come to the Army' in Hebrew.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "army",
+    "website",
+    "hebrew"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
